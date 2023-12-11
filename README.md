@@ -19,5 +19,4 @@ E frases de caráter negativo, tem valores menores que 0:
 
 ### depois execute no seu terminal:
 - python3 main.py
-<br>
 - Acesse o link em seu navegador para ver os dashboards dessa análise
