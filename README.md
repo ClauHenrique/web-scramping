@@ -18,5 +18,6 @@ E frases de caráter negativo, tem valores menores que 0:
 - pip install plotly
 
 - depois execute no seu terminal:
+<br>
   python3 main.py
 - Acesse o link em seu navegador para ver os dashboards dessa análise
